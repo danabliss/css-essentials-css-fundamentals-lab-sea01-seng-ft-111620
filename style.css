@@ -38,13 +38,6 @@ figcaption {
   margin-right: auto;
 }
 
-#details {
-  position: bottom;
-  left: 0;
-  right: 0;
-  width: 100%;
-}
-
 #details div {
   display: block;
   display: horizontal;
