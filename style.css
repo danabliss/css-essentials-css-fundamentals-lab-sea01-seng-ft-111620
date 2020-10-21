@@ -39,14 +39,9 @@ figcaption {
 }
 
 #details{
-
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-#details div {
-display: block;
   text-align: center;
 
 
