@@ -42,4 +42,6 @@ figcaption {
   display: block;
   display: horizontal;
   float: left;
+  text-align: center;
+  
 }
