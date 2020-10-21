@@ -16,7 +16,7 @@ img {
 }
 
 nav a {
-  align-items: center;
+  align-content: center;
   padding: 10px;
   background-color: #8BDBE6;
   color: black;
