@@ -40,10 +40,11 @@ figcaption {
 
 #details {
   display: block;
-  text-align: center;
+  
 }
 
 #details div {
   float: left;
-  background-color: 
+  background-color: purple;
+  text-align: center;
 }
