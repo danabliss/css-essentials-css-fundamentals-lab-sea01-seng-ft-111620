@@ -38,6 +38,10 @@ figcaption {
   margin-right: auto;
 }
 
+#details{
+  text-align: center;
+  
+}
 #details div {
   display: block;
   display: horizontal;
